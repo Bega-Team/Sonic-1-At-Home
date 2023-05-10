@@ -1,9 +1,7 @@
-This disassembly may not be 100% complete, but we try to get it there.
+# Sonic 1 At Home
 
-If you need any help, contact my Discord account Beta Filter#1990.
+You ever want something, like Sonic 1? Sometimes, your mom will say "No, we have it at home."
+This very ROM Hack of the Sonic 1 prototype shows JUST that.
 
-People who tested this disassembly:
-MrLordSith, MCTravisYT, Original Chris, Beta Filter.
-
-People who helped split content:
-MCTravisYT, Beta Filter.
+## Warnings
+This hack will contain bad words, so if you do not like swear words, then just don't play this ROM hack.
