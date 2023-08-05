@@ -21332,9 +21332,9 @@ Obj01_Init:
                 move.b  #2,$19(a0)
                 move.b  #$18,$18(a0)
                 move.b  #4,1(a0)
-                move.w  #$600,($FFFFF760).w
-                move.w  #$C,($FFFFF762).w
-                move.w  #$40,($FFFFF764).w
+                move.w  #$A00,($FFFFF760).w
+                move.w  #$15,($FFFFF762).w
+                move.w  #$25,($FFFFF764).w
 
 Obj01_Control:
                 andi.w  #$7FF,$C(a0)
@@ -21411,9 +21411,9 @@ loc_E91C:
                 beq.s   locret_E950
                 subq.w  #1,$34(a0)
                 bne.s   locret_E950
-                move.w  #$600,($FFFFF760).w
-                move.w  #$C,($FFFFF762).w
-                move.w  #$40,($FFFFF764).w
+                move.w  #$A00,($FFFFF760).w
+                move.w  #$E,($FFFFF762).w
+                move.w  #$25,($FFFFF764).w
                 move.b  #0,($FFFFFE2E).w
                 move.w  #$E3,d0
                 jmp     (PlaySound_Special).l
